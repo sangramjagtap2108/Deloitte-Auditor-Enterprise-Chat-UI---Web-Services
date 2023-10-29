@@ -2,10 +2,9 @@
 A web-based application designed to assist users with their tax-related questions. Leveraging the power of OpenAI's GPT-4, the application provides informative answers to a wide array of tax queries.   
 
 # Output
-
-![Screenshot (73)](https://github.com/sangramjagtap2108/Deloitte-Auditor-Enterprise-Chat-UI---Web-Services/assets/55223872/3c377c3e-bad2-4fce-86e4-661b227fada2)
-![Screenshot (74)](https://github.com/sangramjagtap2108/Deloitte-Auditor-Enterprise-Chat-UI---Web-Services/assets/55223872/510d828a-ad70-474a-8789-52a6579abbf8)
-![Screenshot (75)](https://github.com/sangramjagtap2108/Deloitte-Auditor-Enterprise-Chat-UI---Web-Services/assets/55223872/e36474f9-1865-4fdd-bb64-9678730f35d1)
+![image](https://github.com/sangramjagtap2108/Deloitte-Auditor-Enterprise-Chat-UI---Web-Services/assets/55223872/2ea6bc01-fc0a-4eb4-a712-09ff958cf078)
+![image](https://github.com/sangramjagtap2108/Deloitte-Auditor-Enterprise-Chat-UI---Web-Services/assets/55223872/4f567a43-5dc5-44dd-939a-33b0f27ef98a)
+![image](https://github.com/sangramjagtap2108/Deloitte-Auditor-Enterprise-Chat-UI---Web-Services/assets/55223872/350c0646-ef45-445f-a08f-5f120690d1e1)
 
 # Features
 1. User-Friendly Interface: A simple and intuitive interface for users to input their tax-related questions.
